@@ -1,0 +1,111 @@
+Assignment 1
+
+=Q1. What do HTML and CSS stand for?
+-A.  Hyper Text markup language
+
+=Q2. Would you rather use HTML or CSS, for putting paragraphs of text on a webpage?
+-A.  paragraph is an html element, so HTML is used to put the paragraphs of text on a webpage while the CSS is used to design this element
+
+
+=Q3. Would you rather use HTML or CSS, to change the font and background color of a button?
+-A.  CSS is used to edit font size , style and color.
+
+
+=Q4. What is an HTML tag?
+-A.  Tags tell the browser that this element has it's start here and the closing tag tells the browser where does this element end and between them the content occures 
+     ex. <p><strong>Content</strong><p>
+
+=Q5. What are the three parts of an HTML element? 
+-A.  <Starting tag>Content</Ending Tag>
+
+=Q6. What is the purpose of the doctype declaration?
+-A. It tells the browser that we are writing HTML in this file and it is only written one time in the begining of the file
+
+=Q7. What is the HTML element?
+-A.  It is the root element on the html document where all the elements are whether children or grandchildren of it  
+
+=Q8. What is the purpose of the head element?
+-A.  where we put important meta information about the webpage ,title element head element is used to edit the tab of the webpage
+
+
+=Q9. What is the purpose of the body element?
+-A.  The body element is where we write all the elements to be shown on our webpage.
+
+=Q10. How do you create a paragraph in HTML?
+-A.   <p>Content</p>
+
+=Q11. How do you create a heading in HTML?
+-A.   <h1></h1>
+
+=Q12. How many different levels of headings are there and what is the difference between
+them?
+-A.   they are 6 levels , H1 is the bigger and size decrease as the level increase (H6 is the smallest)
+
+
+=Q13. What element should you use to make text bold and important?
+-A.   We can use either <b></b> or <strong></strong>
+
+=Q14. What element should you use to make text italicized to add emphasis to it?
+-A.   we can use either <i></i> or <em></em>
+
+
+=Q15. What relationship does an element have with any nested elements within it?
+-A.   <body>                    -----> parent element 
+             <h1>Hello</h1>     -----> child element
+             <p>hi</p>          -----> child element
+      </body> 
+
+
+=Q16.
+-A.  
+
+
+=Q17. How do you create HTML comments? 
+-A.   <!╌    Write some comments   ╌>
+
+=Q18. What HTML tag is used to create an unordered list?
+-A.  <ul>
+     <li>Ahmed</li>
+     <li>Tamer</li>
+     </ul>
+
+=Q19. What HTML tag is used to create an ordered list?
+-A.  <ol>
+     <li>Ahmed</li>
+     <li>Tamer</li>
+     </ol>
+
+=Q20. What HTML tag is used to create list items within both unordered and ordered lists?
+-A.   we use the <li></li> tag to list items 
+
+
+=Q21. What element is used to create a link?
+-A.   the <a></a> tag is used to create a link
+      ex: <a href="www.google.com">Click here to go to google</a>
+
+=Q22. What is an attribute?
+-A.   provide additional information about HTML elements
+
+
+=Q23. What attribute tells links where to go?
+-A.   <a  (href="" is the attribute that redirects)></a>
+
+
+=Q24. What is the difference between an absolute and relative link?
+-A.   absolute link contains more information than the relative link
+
+=Q25. Which element is used to display an image?
+-A.   <img src="" alt="">
+
+=Q26. What two attributes do images always need to have?
+-A.   the first is the source of the image (src) and the second is the alternative of the image if it fails to load
+      ex: <img src="some source" alt ="This picture contains a man holding a cat">
+
+
+=Q27. How do you access a parent directory in a file path?
+-A.
+
+
+=Q28.  What are the four main image formats that you can use for images on the web?
+-A.    JPG, PNG, GIF and SVG. 
+
