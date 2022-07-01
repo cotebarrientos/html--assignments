@@ -4,9 +4,17 @@
 
 This repository contains 4 assignments about HTML for the **Frontend Development industry training program** taught by [**Brainnest**](https://www.brainnest.consulting/).
 
-<hr>
+---
 
-### Clone Project from GitHub Website
+### Team members 💪
+
+- [Ahmed](https://github.com/ATamer24)
+- [Maria](https://github.com/cotebarrientos)
+- [Mishaal](https://github.com/m-alkhudair)
+
+---
+
+### Clone Project from GitHub Website 📁
 
 1. Follow this link to the [Project GitHub repository](https://github.com/cotebarrientos/html-assignments).
 2. Scroll to the top of this repository and click on the "clone or download button".
@@ -14,12 +22,13 @@ This repository contains 4 assignments about HTML for the **Frontend Development
    - HTTPS: click on the checklist icon to the right of the URL.
    - SSH key: first click on 'Use SSH' then click on the same icon as above.
 
-### Clone Project from terminal
+### Clone Project from terminal 💻
 
 1.  Open the 'Terminal'.
 2.  Choose the location for the cloned directory.
 3.  Type `git clone`, and then paste the clone URL.
 
-        $git clone https://github.com/USERNAME/REPOSITORY
+        $ git clone https://github.com/USERNAME/REPOSITORY
 
 4.  Press 'Enter' to create your local clone.
+5.  Well done!, you've cloned this repository.
